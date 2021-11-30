@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{459ED3F0-9DB2-4F94-AEDD-0761B2EB019C}'];loadHandler&&loadHandler(0, '<div id="spr0_380ba63a"><div id="spr1_380ba63a" class="kern slide"><img id="img1_380ba63a" src="data/img1.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_380ba63a" class="kern slide"><div id="spr3_380ba63a" style="left:492.713px;top:164.012px;"><div style="width:0px;"><span id="txt0_380ba63a" data-width="339.484741" style="left:21.823px;top:-22.517px;">ARCH</span></div></div><div id="spr4_380ba63a" style="left:489.311px;top:13.091px;"><img id="img0_380ba63a" src="data/img0.jpg" width="390" height="501" alt="Calendar\
+\
+Description automatically generated" style="left:-0.025px;top:-0.136px;"/></div></div></div>');})();
